@@ -2,7 +2,7 @@
 name: Question
 about: A question about this project
 title: ''
-labels: 'question'
+labels: ':question: question'
 assignees: ''
 
 ---
