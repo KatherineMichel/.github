@@ -1,12 +1,11 @@
 ---
 name: Question
-about: A question about this project
+about: Ask a question about this project
 title: ''
 labels: 'question :question:'
 assignees: ''
 
 ---
 
-## Question
-
+**Ask a question**
 A clear and concise description of what the question is. 
