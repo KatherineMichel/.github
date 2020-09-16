@@ -2,14 +2,20 @@
 
 My personal and community health files:
 
-## Personal Files
+## About Me
 
-- [ ] [Profile (Coming soon?)](https://github.com/KatherineMichel/.github/blob/master/profile.yml)
+- [x] [Account README](https://github.com/KatherineMichel/KatherineMichel)
 - [x] [Portfolio](https://github.com/KatherineMichel/portfolio)
-- [ ] [Personal- Private Organization System](https://github.com/KatherineMichel/personal)
+
+## Supporting Info
+
 - [x] [Template](https://github.com/KatherineMichel/template)
 - [ ] [Style Guide](https://github.com/KatherineMichel/.github/blob/master/STYLE_GUIDE.md)
+
+## Personal Organization
+
 - [x] [Digital Commonplace](https://github.com/KatherineMichel/digital-commonplace)
+- [ ] [Personal- Private Organization System](https://github.com/KatherineMichel/personal)
 
 ## Community Health Files
 
