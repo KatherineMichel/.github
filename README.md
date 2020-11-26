@@ -15,7 +15,7 @@ My personal and community health files:
 ## Personal Organization
 
 - [x] [Digital Commonplace](https://github.com/KatherineMichel/digital-commonplace)
-- [x] [Personal Organization- Private Organization System](https://github.com/KatherineMichel/personal-organization)
+- [x] [Personal Organization](https://github.com/KatherineMichel/personal-organization)
 
 ## Community Health Files
 
